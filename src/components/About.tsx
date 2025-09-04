@@ -177,7 +177,7 @@ const About = () => {
             <div className="flex flex-col items-center md:items-start w-full md:w-auto">
               {/* Image */}
               <img
-                src="src/assets/Sumit1.jpeg"
+                src="./src/assets/Sumit1.jpeg"
                 alt="Sumit Sharma"
                 className="w-96 h-96 object-cover border-4 border-blue-400 shadow-xl bg-slate-800 mb-6"
                 style={{ borderRadius: "1rem" }}
