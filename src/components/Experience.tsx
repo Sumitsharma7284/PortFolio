@@ -61,15 +61,15 @@ const Experience = () => {
       ],
       photos: [
         {
-          url: "src/assets/Microsoft1.jpeg",
+          url: "./src/assets/Microsoft1.jpeg",
           caption: "Microsoft office cybersecurity workshop",
         },
         {
-          url: "src/assets/Microsoft2.jpeg",
+          url: "./src/assets/Microsoft2.jpeg",
           caption: "Hands-on ethical hacking session",
         },
         {
-          url: "src/assets/Microsoft3.JPG",
+          url: "./src/assets/Microsoft3.JPG",
           caption: "Security frameworks discussion",
         },
       ],
@@ -100,15 +100,15 @@ const Experience = () => {
       ],
       photos: [
         {
-          url: "src/assets/Codestorm1.jpeg",
+          url: "./src/assets/Codestorm1.jpeg",
           caption: "Intense coding session during hackathon",
         },
         {
-          url: "src/assets/Codestorm2.jpeg",
+          url: "./src/assets/Codestorm2.jpeg",
           caption: "Team collaboration and brainstorming",
         },
         {
-          url: "src/assets/Codestorm3.jpeg",
+          url: "./src/assets/Codestorm3.jpeg",
           caption: "Final presentation to judges",
         },
       ],
@@ -139,15 +139,15 @@ const Experience = () => {
       ],
       photos: [
         {
-          url: "src/assets/ideathon1.jpeg",
+          url: "./src/assets/ideathon1.jpeg",
           caption: "Ideathon event coordination",
         },
         {
-          url: "src/assets/ideathon2.jpeg",
+          url: "./src/assets/ideathon2.jpeg",
           caption: "Participants brainstorming solutions",
         },
         {
-          url: "src/assets/ideathon3.jpeg",
+          url: "./src/assets/ideathon3.jpeg",
           caption: "Innovation showcase presentations",
         },
       ],
@@ -178,15 +178,15 @@ const Experience = () => {
       ],
       photos: [
         {
-          url: "src/assets/Oneindia1.jpeg",
+          url: "./src/assets/Oneindia1.jpeg",
           caption: "Cultural performance representing Uttarakhand",
         },
         {
-          url: "src/assets/Oneindia2.jpeg",
+          url: "./src/assets/Oneindia2.jpeg",
           caption: "Team celebration after winning",
         },
         {
-          url: "src/assets/Oneindia3.jpeg",
+          url: "./src/assets/Oneindia3.jpeg",
           caption: "Unity in diversity showcase",
         },
       ],
@@ -221,15 +221,15 @@ const Experience = () => {
       ],
       photos: [
         {
-          url: "src/assets/tatva1.jpeg",
+          url: "./src/assets/tatva1.jpeg",
           caption: "Saam-e-Lawza poetry night stage",
         },
         {
-          url: "src/assets/tatva2.jpeg",
+          url: "./src/assets/tatva2.jpeg",
           caption: "Audience enjoying poetic performances",
         },
         {
-          url: "src/assets/tatva3.jpeg",
+          url: "./src/assets/tatva3.jpeg",
           caption: "Cultural expression through poetry",
         },
       ],
@@ -260,15 +260,15 @@ const Experience = () => {
       ],
       photos: [
         {
-          url: "src/assets/vishal1.jpeg",
+          url: "./src/assets/vishal1.jpeg",
           caption: "Memorial tribute ceremony",
         },
         {
-          url: "src/assets/vishal2.jpeg",
+          url: "./src/assets/vishal2.jpeg",
           caption: "Community volunteers in action",
         },
         {
-          url: "src/assets/vishal3.jpeg",
+          url: "./src/assets/vishal3.jpeg",
           caption: "Honoring our heroes together",
         },
       ],
